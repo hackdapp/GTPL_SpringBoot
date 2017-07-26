@@ -1,0 +1,2 @@
+# GTPL_SpringBoot
+基于Gradle管理的SpringBoot模板化工程
